@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{9B2DFE06-A564-4A18-95C3-017466098F5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.RadialProgressDemo.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RadialProgressDemo/RadialProgressDemo/myCsub_startPage.cs">
+    <Files>
+      <File FileName="RadialProgressDemo/RadialProgressDemo/myCsub_livestats.cs" Line="170" Column="5" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/myCsub_mySql.cs" Line="57" Column="3" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/MapPage.cs" Line="1" Column="1" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/packages.config" Line="1" Column="1" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/myCsub_about.cs" Line="48" Column="6" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/myCsub_startPage.cs" Line="21" Column="28" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/myCsub_Progress.cs" Line="54" Column="20" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/myCsub_CampusP.cs" Line="38" Column="6" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/RadialProgress.cs" Line="70" Column="2" />
+      <File FileName="RadialProgressDemo/RadialProgressDemo/App.cs" Line="17" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RadialProgressDemo" expanded="True">
+            <Node name="RadialProgressDemo" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="myCsub_startPage.cs" selected="True" />
+            </Node>
+            <Node name="RadialProgressDemo.Droid" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
